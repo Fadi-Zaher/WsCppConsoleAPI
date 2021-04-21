@@ -1,0 +1,7 @@
+[submodule "CppConsoleAPI"]
+	path=../CppConsoleAPI
+	url = https://github.com/Danielli-Itai/CppConsoleAPI
+	
+[submodule "CppConsoleTest"]
+	path=../CppConsoleTest
+	url = https://github.com/Danielli-Itai/CppConsoleTest
